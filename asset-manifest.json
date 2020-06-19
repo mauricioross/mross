@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mross/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mross/static/js/main.03b1122b.chunk.js",
+    "main.js.map": "/mross/static/js/main.03b1122b.chunk.js.map",
+    "runtime-main.js": "/mross/static/js/runtime-main.f075b100.js",
+    "runtime-main.js.map": "/mross/static/js/runtime-main.f075b100.js.map",
+    "static/js/2.c1a5f06b.chunk.js": "/mross/static/js/2.c1a5f06b.chunk.js",
+    "static/js/2.c1a5f06b.chunk.js.map": "/mross/static/js/2.c1a5f06b.chunk.js.map",
+    "index.html": "/mross/index.html",
+    "precache-manifest.b9f4fcfb3c741ecd37bcba0f6034ec12.js": "/mross/precache-manifest.b9f4fcfb3c741ecd37bcba0f6034ec12.js",
+    "service-worker.js": "/mross/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mross/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c1a5f06b.chunk.js.LICENSE.txt": "/mross/static/js/2.c1a5f06b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mross/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f075b100.js",
+    "static/js/2.c1a5f06b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.03b1122b.chunk.js"
+  ]
+}
